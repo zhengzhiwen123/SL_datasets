@@ -10,3 +10,14 @@ Considering the privacy concerns of the deaf community, before collecting gestur
 
 
 This warehouse has selected a batch of high-quality sign language samples from the original data set, which are executed and collected by sign language experts. We upload them to Baidu online disk, please click [download](https://pan.baidu.com/s/1_laH-TaVzgIdE6dPDb7egg),password：1507. If you have any questions, please contact email: 1839463643@qq.com.
+
+
+# MM-CSL_datasets
+
+## Dataset Description
+MM-CSL is a sign language dataset collected by ourselves with a Logitech C922x Pro Stream webcam and a MYO bracelet. The frame rate and resolution of the webcam are $60$fps and 1920*1080, respectively. MM-CSL contains 161 common sentences consisting of $ 297 $ sign words. The volunteers involved in the data collection included 11 volunteers (7 males and 4 males), both hearing people and hearing-impaired. Considering the deaf community privacy concerns, a manual for collecting sign signals was edited to inform volunteers of what information needed to be collected prior to collecting sign signals. The dataset was collected through two MYO bracelets and an RGB camera. In the process of data collection, the two MYO bracelets were worn on the volunteers' hands, respectively, to collect the sEMG signals and the IMU signals generated in the execution of sign language gestures. An RGB camera, which was placed 2.5 m in front of the volunteer, recorded the sign language movements performed by the volunteer by means of video. In particular, the frame rate and the pixels of the RGB camera are $60$fps and 1290*1080, respectively.
+
+
+
+
+This warehouse has selected a batch of high-quality sign language samples from the original data set, which are executed and collected by sign language experts. We upload them to Baidu online disk, please click [download](https://pan.baidu.com/s/1_laH-TaVzgIdE6dPDb7egg),password：1507. If you have any questions, please contact email: 1839463643@qq.com.
